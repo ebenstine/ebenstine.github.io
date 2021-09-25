@@ -4,12 +4,13 @@
 	margin-right: 200px;
     padding: 10px 150px 10px 150px;
     border-radius: 10px;
-	background:rgb(183, 204, 209);
+	background:rgb(158, 191, 199);
 	text-align:left;
+    
 }
 
 header {
-    background:rgb(3, 24, 3);
+    background:rgb(46, 59, 46);
     padding:20px;
     text-align: center;
     position:fixed;
@@ -53,6 +54,9 @@ header h1 {
 	color:black;
 }
 
+#pic {
+    border-radius: 5px;
+}
 
 p {
 	font-size: 15px;
