@@ -67,6 +67,7 @@ header h3 {
 
 #pic {
     border-radius: 5px;
+	border: 1px solid snow;
     
 }
 
@@ -155,6 +156,7 @@ footer{
     color:snow;
     padding:30px;
 	border-radius: 25px;
+	border: 2px solid snow;
 	font-size: 18.5px;
 	font-style: italic;
 }
